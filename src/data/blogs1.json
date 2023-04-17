@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/blog/1.jpg",
+    "title": "Мы гарантируем высокое качество работы.",
+    "by": "От дизайнера",
+    "date": "Mar 06 2023",
+    "link": "https://www.instagram.com/p/CqdETl5p2IR/"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/blog/2.jpg",
+    "title": "Мы готовы изготовить макет любой сложности.",
+    "by": "От дизайнера",
+    "date": "Mar 06 2023",
+    "link": "https://www.instagram.com/p/CqKvAzAAq_U/"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/blog/3.jpg",
+    "title": "На нашем опыте числятся макеты жилых комплексов.",
+    "by": "От дизайнера",
+    "date": "Mar 06 2023",
+    "link": "https://www.instagram.com/p/CpSajsstvH_/"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/team/1.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Асадуллаев Комоллидин",
+    "usertitle": "Менеджер"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/team/2.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Махкамов Жохонгир",
+    "usertitle": "Директор"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/team/3.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Закирова Наргиза",
+    "usertitle": "Дизайнер"
+  },
+  {
+    "id": 5,
+    "image": "/assets/img/team/5.jpg",
+    "facebook": "#",
+    "twitter": "#",
+    "behance": "#",
+    "linkedin": "#",
+    "username": "Фаттохов Ровшан",
+    "usertitle": "Мастер"
+  }
+]
