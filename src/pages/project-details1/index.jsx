@@ -96,16 +96,16 @@ const ProjectDetails = () => {
       <NextProject />
       <section className="projdtal">
         <div className="justified-gallery">
-          <a href="#" className="col-lg-4 col-xl-3 col-md-6">
+          <a href="/project-details4" className="col-lg-4 col-xl-3 col-md-6">
             <img alt="" src="/assets/img/portfolio/project5/5.jpg" />
           </a>
-          <a href="#" className="col-lg-4 col-xl-3 col-md-6">
+          <a href="/project-details7" className="col-lg-4 col-xl-3 col-md-6">
             <img alt="" src="/assets/img/works/3.jpg" />
           </a>
-          <a href="#" className="col-lg-4 col-xl-3 col-md-6">
+          <a href="/project-details5" className="col-lg-4 col-xl-3 col-md-6">
             <img alt="" src="/assets/img/portfolio/project6/5.jpg" />
           </a>
-          <a href="#" className="col-lg-4 col-xl-3 col-md-6">
+          <a href="/project-details8" className="col-lg-4 col-xl-3 col-md-6">
             <img alt="" src="/assets/img/portfolio/project9/5.jpg" />
           </a>
         </div>
