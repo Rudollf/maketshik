@@ -25,15 +25,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/about": [
+    "/home1": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/about.js"
+      "static/chunks/pages/home1.js"
     ],
-    "/project-details": [
+    "/project-details3": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/project-details.js"
+      "static/chunks/pages/project-details3.js"
+    ],
+    "/project-details8": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/project-details8.js"
     ]
   },
   "ampFirstPages": []
