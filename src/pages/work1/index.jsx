@@ -12,11 +12,11 @@ const Work1 = () => {
     <MainLayout>
       <WorkHeader
         title={{
-          first: "Architecture is a visual art,",
-          second: "and the building speak for themeselves",
+          first: "При помощи наших макетов можно показать",
+          second: "потенциальным инвесторам все особенности проекта.",
         }}
         // title = "text",
-        content="Architecture bibendum pharetra eleifend. Suspendisse vel volutpat purus, sit amet bibendum nisl. Cras mollis turpis a ipsum ultes, nec condimentum ipsum consequat. Mauris vitae consequat nibh, vitae interdum mi."
+        content="Наглядность и красочность макета позволит человеку, который не искушен в строительстве и не умеет читать чертежи, разобраться в особенностях проекта. Клиент может увидеть свои окна на фасаде здания, оценить удобство подъездных путей и стоянок, даже определить на какой из детских площадок у дома он сможет гулять с детьми.Макет коттеджного поселка позволит ему оценить прилегающий ладшафт, увидеть ближайшую речку или лесок. Такие макеты значительно облегчают труд менеджеров и специалистов по продажам."
       />
       <WorkTwoColumn />
     </MainLayout>

@@ -26,7 +26,7 @@ const ProjectIntro1 = () => {
           <div className="col-lg-3">
             <div className="item mt-30">
               <h6>Клиент</h6>
-              <p>ЖК PressTIGe</p>
+              <p>Prestige stroy</p>
             </div>
           </div>
           <div className="col-lg-3">

@@ -16,87 +16,89 @@ export const WorkTwoColumn = () => {
           <div className="row gallery">
             <div className="col-lg-6 items mt-0 interior theaters residential">
               <div className="section-head mb-0">
-                <h3>Works</h3>
+                <h3>Наши работы</h3>
 
                 <div className="filtering mt-30">
                   <div className="filter">
                     <span data-filter="*" className="active">
-                      All
+                      Все
                     </span>
-                    <span data-filter=".interior">Interior</span>
-                    <span data-filter=".theaters">Theaters</span>
-                    <span data-filter=".residential">Residential</span>
+                    <span data-filter=".theaters">Классик</span>
+                    <span data-filter=".interior">Современный</span>
+                    <span data-filter=".residential">Другие</span>
                   </div>
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 items theaters">
+            <div className="col-lg-6 items interior theaters">
               <div className="item">
                 <div className="img">
                   <img src="/assets/img/works/2.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details8">Учебный филиал ТГЮУ</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-6 items residential interior">
-              <div className="item">
-                <div className="img">
-                  <img src="/assets/img/works/1.jpg" alt="" />
-                </div>
-                <div className="cont vis">
-                  <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
-                  </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Учебное заведение</span>
+                  <span>Классик</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/5.jpg" alt="" />
+                  <img src="/assets/img/works/1.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details4">ЖК РОХАТ</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Хай-тек</span>
+                  <span>Современный</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items residential">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/3.jpg" alt="" />
+                  <img src="/assets/img/works/5.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details5">Гур Эмир</Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Восточный</span>
+                  <span>Исторический</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items theaters">
               <div className="item">
                 <div className="img">
+                  <img src="/assets/img/works/3.jpg" alt="" />
+                </div>
+                <div className="cont vis">
+                  <h5>
+                    <Link href="/project-details7">Yangi O’zbekiston</Link>
+                  </h5>
+                  <span>Восточный</span>
+                  <span>Классик</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6 items residential">
+              <div className="item">
+                <div className="img">
                   <img src="/assets/img/works/4.jpg" alt="" />
                 </div>
                 <div className="cont vis">
                   <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
+                    <Link href="/project-details6">
+                      Металлоконструкция Akfa
+                    </Link>
                   </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <span>Промышленный</span>
+                  <span></span>
                 </div>
               </div>
             </div>

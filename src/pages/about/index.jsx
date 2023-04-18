@@ -15,7 +15,7 @@ const About = () => {
   return (
     <MainLayout>
       <PageHeader
-        title="About Us"
+        title="О компании"
         fullPath={[
           { id: 1, name: "Главная", url: "/" },
           { id: 2, name: "О компании", url: "/about" },
