@@ -37,10 +37,10 @@ export const WorkTwoColumn = () => {
                 </div>
                 <div className="cont vis">
                   <h5>
-                    <Link href="/project-details8">Учебный филиал ТГЮУ</Link>
+                    <Link href="/project-details8">ЖК Манзур</Link>
                   </h5>
-                  <span>Учебное заведение</span>
                   <span>Классик</span>
+                  <span>Современный</span>
                 </div>
               </div>
             </div>
@@ -51,7 +51,7 @@ export const WorkTwoColumn = () => {
                 </div>
                 <div className="cont vis">
                   <h5>
-                    <Link href="/project-details4">ЖК РОХАТ</Link>
+                    <Link href="/project-details4">ЖК Rohat</Link>
                   </h5>
                   <span>Хай-тек</span>
                   <span>Современный</span>

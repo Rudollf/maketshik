@@ -13,7 +13,7 @@ const ProjectDetails8 = () => {
   return (
     <MainLayout>
       <PageHeader
-        title="«Филиал ТГЮУ»"
+        title="ЖК «Манзур»"
         fullPath={[
           { id: 1, name: "главная", url: "/" },
           { id: 2, name: "портфолио", url: "/work1" },

@@ -11,7 +11,11 @@ const Contact = () => {
               className="col-lg-5 col-md-6 contact-form wow fadeInDown"
               data-wow-delay=".3s"
             >
-              <form id="contact-form" method="post" action="contact.php">
+              <form
+                id="contact-form"
+                action="https://hooks.airtable.com/workflows/v1/genericWebhook/appKBFiPhpwUYf2WV/wflM3LhmAcK7v84CH/wtr2L3H00vsCvZ68W"
+                method="post"
+              >
                 <div className="section-head">
                   <h6>свяжитесь с нами</h6>
                   <h4 className="playfont">Для связи</h4>

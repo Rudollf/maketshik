@@ -2,7 +2,7 @@
   "filtersName": [
     {
       "id": 1,
-      "name": "New classic",
+      "name": "Neoclassic",
       "filterClass": ".interior"
     },
     {
@@ -37,7 +37,7 @@
       "id": 3,
       "image": "/assets/img/portfolio/mas/03.jpg",
       "title": "Osiyo Stroy Development",
-      "tag": "New classic",
+      "tag": "Neoclassic",
       "filterClass": "interior",
       "link": "/project-details2"
     },
@@ -45,7 +45,7 @@
       "id": 4,
       "image": "/assets/img/portfolio/mas/04.jpg",
       "title": "Anor Home",
-      "tag": "New classic, Modern",
+      "tag": "Neoclassic, Modern",
       "filterClass": "interior residential",
       "link": "/project-details3"
     }

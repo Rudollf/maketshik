@@ -1956,7 +1956,7 @@ module.exports = JSON.parse('[{"id":1,"image":"/assets/img/blog/1.jpg","title":"
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"filtersName":[{"id":1,"name":"New classic","filterClass":".interior"},{"id":2,"name":"Hi-tech","filterClass":".theaters"},{"id":3,"name":"Modern","filterClass":".residential"}],"portfolio":[{"id":1,"image":"/assets/img/portfolio/mas/01.jpg","title":"PressTige","tag":"Hi-tech","filterClass":"theaters","link":"/project-details"},{"id":2,"image":"/assets/img/portfolio/mas/02.jpg","title":"ЖК Shohona, Zamin","tag":"Hi-tech","filterClass":"theaters","link":"/project-details1"},{"id":3,"image":"/assets/img/portfolio/mas/03.jpg","title":"Osiyo Stroy Development","tag":"New classic","filterClass":"interior","link":"/project-details2"},{"id":4,"image":"/assets/img/portfolio/mas/04.jpg","title":"Anor Home","tag":"New classic, Modern","filterClass":"interior residential","link":"/project-details3"}]}');
+module.exports = JSON.parse('{"filtersName":[{"id":1,"name":"Neoclassic","filterClass":".interior"},{"id":2,"name":"Hi-tech","filterClass":".theaters"},{"id":3,"name":"Modern","filterClass":".residential"}],"portfolio":[{"id":1,"image":"/assets/img/portfolio/mas/01.jpg","title":"PressTige","tag":"Hi-tech","filterClass":"theaters","link":"/project-details"},{"id":2,"image":"/assets/img/portfolio/mas/02.jpg","title":"ЖК Shohona, Zamin","tag":"Hi-tech","filterClass":"theaters","link":"/project-details1"},{"id":3,"image":"/assets/img/portfolio/mas/03.jpg","title":"Osiyo Stroy Development","tag":"Neoclassic","filterClass":"interior","link":"/project-details2"},{"id":4,"image":"/assets/img/portfolio/mas/04.jpg","title":"Anor Home","tag":"Neoclassic, Modern","filterClass":"interior residential","link":"/project-details3"}]}');
 
 /***/ }),
 
@@ -1989,7 +1989,7 @@ module.exports = JSON.parse('[{"id":1,"name":"АРХИТЕКТУРА","val":85},
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('[{"id":1,"image":"/assets/img/team/1.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Асадуллаев Комоллидин","usertitle":"Менеджер"},{"id":2,"image":"/assets/img/team/2.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Махкамов Жохонгир","usertitle":"Директор"},{"id":3,"image":"/assets/img/team/3.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Закирова Наргиза","usertitle":"Дизайнер"},{"id":5,"image":"/assets/img/team/5.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Фаттохов Ровшан","usertitle":"Мастер"}]');
+module.exports = JSON.parse('[{"id":1,"image":"/assets/img/team/2.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Махкамов Жохонгир","usertitle":"Директор"},{"id":2,"image":"/assets/img/team/1.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Асадуллаев Комоллидин","usertitle":"Менеджер"},{"id":3,"image":"/assets/img/team/3.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Закирова Наргиза","usertitle":"Дизайнер"},{"id":5,"image":"/assets/img/team/5.jpg","facebook":"#","twitter":"#","behance":"#","linkedin":"#","username":"Фаттохов Ровшан","usertitle":"Мастер"}]');
 
 /***/ }),
 
